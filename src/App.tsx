@@ -13,11 +13,12 @@ function App() {
       <main className="container">
         <section className="policy-card">
           <p>
-            This Privacy Policy applies to the <strong>Convertify</strong>{" "}
-            mobile application (hereinafter referred to as the "Application"),
-            developed by <strong>Isotope Core</strong> (hereinafter referred to
-            as the "Service Provider") as a Free, ad-supported service. This
-            service is provided "AS IS".
+            This Privacy Policy applies to the{" "}
+            <strong>Unit Converter 3D</strong> mobile application (hereinafter
+            referred to as the "Application"), developed by{" "}
+            <strong>Isotope Core</strong> (hereinafter referred to as the
+            "Service Provider") as a Free, ad-supported service. This service is
+            provided "AS IS".
           </p>
 
           <h2>Information Collection and Use</h2>
